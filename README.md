@@ -1,7 +1,6 @@
 
 <p>
   <img src="https://count.getloli.com/get/@:name" alt=":name" />
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 <h1 align="center">Hi 👋, I'm Wen Chenyang</h1>
