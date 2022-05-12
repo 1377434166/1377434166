@@ -7,7 +7,7 @@
 <h3 align="center">A passionate master of Economics from China</h3>
 <h3 align="left">Languages and Tools:</h3>
 
-### :dart: Weekly Fuck The Code
+### :dart: Weekly Practice The Code
 <!--START_SECTION:waka-->
 ```text
 JSON         55 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
