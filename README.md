@@ -4,7 +4,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 <h1 align="center">Hi 👋, I'm Wen Chenyang</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h3 align="center">A passionate master of Economics from China</h3>
 <h3 align="left">Languages and Tools:</h3>
 
 ### :dart: Weekly Fuck The Code
