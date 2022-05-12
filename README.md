@@ -5,6 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Wen Chenyang</h1>
 <h3 align="center">A passionate master of Economics from China</h3>
+<h3 align="center">And a fan of source code design</h3>
 <h3 align="left">Languages and Tools:</h3>
 
 ### :dart: Weekly Practice The Code
