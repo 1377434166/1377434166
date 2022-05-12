@@ -34,6 +34,6 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 <h4 align="center">2019.12-2019.12 Participated in the Challenge Cup </h4> 
 <h5 align="left">• Theoretical modeling: I was mainly responsible for mathematical modeling and analysis in the project. Factor analysis was adopted as the main research method and SPSS was used to complete the analysis </h5>
 <h5 align="left">• Data collation: The Python web crawler completes the collation of large-scale data in data collection, which is the mainstay of the team </h5>
-<h4 align="center">2018.03-2018.07 研究地域企业的变迁并探讨其原因  </h4>
-<h5 align="left">• 数据处理：在项目中负责数据的收集与整理，利用 matlab 完成对比项目的嵌套循环，为项目工作节省了大量时间 </h5>
-<h5 align="left">• 团队领导：在项目中担任着不可或缺的角色，在这次科研工作中，锻炼了自己数据搜寻的能力和团队组织能力 </h5>
+<h4 align="center">2018.03-2018.07 This paper studies the changes of regional enterprises and discusses their causes  </h4>
+<h5 align="left">• Data processing: In charge of data collection and collation in the project, using MATLAB to complete the nested cycle of the comparison project, saving a lot of time for the project work </h5>
+<h5 align="left">• Team leader: Played an indispensable role in the project. In this scientific research work, I exercised my ability of data search and team organization </h5>
